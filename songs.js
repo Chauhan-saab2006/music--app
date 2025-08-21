@@ -143,7 +143,7 @@ const songs = [
     id: 21,
     title: "Ajj Din Chadheya",
     artist: "Rahat Fateh Ali Khan",
-    cover: "imges/love aaj kal.jpg",
+    cover: "imges/love-aaj-kal.jpg",
     file: "songs/Ajj Din Chadheya - Love Aaj Kal - Love Aaj Kal 2009 128KBPS.mp3",
   },
   {
